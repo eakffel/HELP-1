@@ -1,0 +1,46 @@
+
+
+.img1
+{
+    margin-left: 10px;
+    margin-top: 1px;
+    float: left right;
+    overflow: hidden;
+    height: 250;
+    border-radius: 100px;
+}
+.T2{
+    float: right;
+    margin-top: 80;
+    margin-right: 200;
+    font-size: 25px;
+    
+}
+.T3{
+    float: right;
+    margin-right: 1000;
+    font-size: 25px;
+}
+
+h1{
+margin:15px;
+    float: right;
+    padding: inherit;
+    border: 40px;
+    text-align: center;
+    float: inherit;
+    clear: both;
+    font-size: 40px;
+    border-bottom: 1px;
+    color: black;
+}
+Button{
+background-color: #0099cc;
+  margin: 20px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+    border-radius: 30px;
+}
